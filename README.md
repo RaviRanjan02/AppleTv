@@ -10,7 +10,7 @@ and Apple TVs it can also index and access content from linked apps of other vid
 
 # Work division and working together:
 
-After getting this project by Masai in Unit 4 construct week. 
+After getting this project by Masai in Unit 3 construct week. 
 We all went through the actual website to understand the entire flow and noted down all the important features which were to be implemented. 
 We all decided that Suman will lead the team. Suman has created a roadmap for the project (Structure of the project, 
 division of work among members with specific timelines). We used to meet twice a day (Scrum and Standup). 
